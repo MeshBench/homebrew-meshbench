@@ -1,6 +1,6 @@
 cask "meshbench-bundled" do
-  version "0.0.6"
-  sha256 "83721ac7429f633ffdee85174b914e6de81d6eac860f61cd00e157bb83d513f0"
+  version "0.0.7"
+  sha256 "f44cac3f319efa2d2c0c3438cec45d596469db0d35c89729ed9f963392070bba"
 
   url "https://github.com/MeshBench/meshbench/releases/latest/download/MeshBench-arm64-bundled.dmg",
       verified: "github.com/MeshBench/meshbench/"
