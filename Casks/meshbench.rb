@@ -1,6 +1,6 @@
 cask "meshbench" do
-  version "0.0.7"
-  sha256 "cc74feff48700accac2a12be0b16169f8d220cc271bf78c394595cceb9c5f394"
+  version "0.0.8"
+  sha256 "17e4f7d4f4f3385ed03665d8f46f37ba5dad8e9535f8d2c688233f3bd661a18a"
 
   url "https://github.com/MeshBench/meshbench/releases/latest/download/MeshBench-arm64-compact.dmg",
       verified: "github.com/MeshBench/meshbench/"
